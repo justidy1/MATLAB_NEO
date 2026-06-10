@@ -1,3 +1,5 @@
+pyenv(Version="C:\Users\Justin\anaconda3\envs\MATLAB_NEO\python.exe");
+
 ds = 10;
 
 r=pyrunfile("python_code\load_bonsai_binary.py","traces", ...
